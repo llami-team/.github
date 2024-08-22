@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ We are the PAITOSS development team.
+🙋‍♀️ We are the LLAMI development team.
 
 🗺️ We are located in Gyeonggi-do, South Korea.
 
